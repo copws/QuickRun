@@ -3,15 +3,9 @@ C C++ Python 等语言快速编译运行的小工具，使用 Python Tkinter，�
 
 ### 使用
 
-如果没有 Python 3 运行环境的朋友可以直接下载我打包过的版本 QuickRun.exe。文件比较大，因为包含了 Python 3 解释器和依赖项。运行它，把文件拖入文件框，再点击运行即可快速编译运行程序。
+QuickRun 不需要 Python 运行环境，我已经打包好了，开箱即用~
 
-有 Python 3 运行环境的朋友先安装依赖 windnd：
-
-```bash
-pip install windnd
-```
-
-然后下载源码，解压缩后运行 QuickRun.py 即可。把文件拖入文件框，再点击运行即可快速编译运行程序。
+方法很简单，在 GitHub Release 下载 QuickRun-版本号.zip，然后解压，双击运行里面的 QuickRun.exe。把文件拖入文件框，再点击运行即可快速编译运行程序。
 
 如果是 C / C++ 程序，编译后的 exe 文件会生成在 Results 目录下。
 
